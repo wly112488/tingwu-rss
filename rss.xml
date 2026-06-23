@@ -1,22 +1,16 @@
-  <?xml version="1.0" ?>
-  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0">
     <channel>
-      <title>Video Feed</title>
+      <title>Douyin Videos</title>
       <link>https://tingwu.aliyun.com</link>
-      <description>Generated for Tingwu - 2 episodes</description>
-      <language>zh-cn</language>
+      <description>2 episodes</description>
       <item>
         <title>Video 1</title>
-        <enclosure
-  url="https://www.douyin.com/aweme/v1/play/?video_id=v0200fg10000d7ccqk7og65movk1f9kg&line=0&file_id=de3de7869bac462094d322aba09aa6c8&sign=4cb4d25755fb2484bc5d338ba82c5266&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL" length="0"
-  type="video/mp4"/>
+        <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v0200fg10000d7ccqk7og65movk1f9kg&amp;line=0&amp;file_id=de3de7869bac462094d322aba09aa6c8&amp;sign=4cb4d25755fb2484bc5d338ba82c5266&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
       </item>
       <item>
         <title>Video 2</title>
-        <enclosure
-  url="https://www.douyin.com/aweme/v1/play/?video_id=v0200fg10000d7aek9vog65v1ann1n00&line=0&file_id=3e91f15024f645ee9a29bff4b6af357b&sign=a93f0a15f3cb390be95ce04a58741cd2&is_play_url=1&source=PackSourceEnum_AWEME_DETAIL" length="0"
-  type="video/mp4"/>
+        <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v0200fg10000d7aek9vog65v1ann1n00&amp;line=0&amp;file_id=3e91f15024f645ee9a29bff4b6af357b&amp;sign=a93f0a15f3cb390be95ce04a58741cd2&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
       </item>
     </channel>
   </rss>
