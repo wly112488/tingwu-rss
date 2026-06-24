@@ -3,13 +3,17 @@
   <channel>
     <title>生活_video</title>
     <link>https://tingwu.aliyun.com</link>
-    <description>2 episodes</description>
+    <description>3 episodes</description>
     <item>
       <title>Video 1</title>
-      <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v0d00fg10000d8lpvkfog65nep646770&amp;line=0&amp;file_id=a3f9b327618b459baa940b4573bf3450&amp;sign=bb08183a1de743668c2c5768db3f0145&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
+      <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v0200fg10000d7l32d7og65ukorr8r80&amp;line=0&amp;file_id=bba9dd04a0dd44f29916926d41037f60&amp;sign=d67db68c86ac1adbf96cfef4098a105e&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
     </item>
     <item>
       <title>Video 2</title>
+      <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v0d00fg10000d8lpvkfog65nep646770&amp;line=0&amp;file_id=a3f9b327618b459baa940b4573bf3450&amp;sign=bb08183a1de743668c2c5768db3f0145&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Video 3</title>
       <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v1e00fgi0000d8n32p7og65vtsu0a6lg&amp;line=0&amp;file_id=2e1c58b037954d989b41bd4dac5c04d5&amp;sign=ead0bc864171277abfdd10d2e17f198e&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
     </item>
   </channel>
