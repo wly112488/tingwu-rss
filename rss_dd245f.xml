@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>我的作品_video</title>
+    <link>https://tingwu.aliyun.com</link>
+    <description>3 episodes</description>
+    <item>
+      <title>Video 1</title>
+      <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v0300fg10000d6imm6vog65qqr39l5v0&amp;line=0&amp;file_id=557361da65fb4c9690a800e77283275c&amp;sign=719595972d688faa8cfdbf6e04cd1bb0&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Video 2</title>
+      <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v0300fg10000d0d13pvog65i6k3g8ae0&amp;line=0&amp;file_id=d1e18e82ab0f4bf2817e9cd9d37ec994&amp;sign=156d2aa7bf1f78e6eae6a83d044cba2b&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Video 3</title>
+      <enclosure url="https://www.douyin.com/aweme/v1/play/?video_id=v0300fg10000cuf5c4vog65lj3ibvrmg&amp;line=0&amp;file_id=7945885e930542949043915f5d5f16b7&amp;sign=e53bd6880d3441568b300fa7784c409a&amp;is_play_url=1&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
+    </item>
+  </channel>
+</rss>
