@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>cs_video (101-105)</title>
+    <link>https://tingwu.aliyun.com</link>
+    <description>5 episodes</description>
+    <item>
+      <title>Video 101</title>
+      <enclosure url="https://api-play.amemv.com/aweme/v1/play/?video_id=v1e00fgi0000cvpn60vog65uafnue3qg&amp;line=0&amp;ratio=540p&amp;watermark=1&amp;media_type=4&amp;vr_type=0&amp;improve_bitrate=0&amp;biz_sign=NRPI1lC4AlkgB1YZ_o3IkPAfESQSvePEcuHVttBiJGuwTcZpHJhXnt8SoaXT9VaaOzLa7CA0Ou-V1V2BgVcbfdMT7UbNDGbNHaUZIZuaRMUGyO7s5wbVW7et0I2xs1hA&amp;logo_name=aweme_search_suffix&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Video 102</title>
+      <enclosure url="https://api-play.amemv.com/aweme/v1/play/?video_id=v0d00fg10000cvlnfivog65nfss2ja9g&amp;line=0&amp;ratio=1080p&amp;watermark=1&amp;media_type=4&amp;vr_type=0&amp;improve_bitrate=0&amp;biz_sign=NRPI1lC4AlkgB1YZ_o3JkfAfESRKvePEcuHVqtAyfWuwTcZpB59Cg5gd8-3T9VaaOzLa7CA0Ou-V1V2BgVcbfdMT7UbNDGbNHaUZIZuaRMUGyO7s5wbVW7et0I2xs1hA&amp;logo_name=aweme_search_suffix&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Video 103</title>
+      <enclosure url="https://v95-se-zjwztc-default.365yg.com/8131de4dc3d2672fc97518cc2e009453/6aa2cc05/video/tos/cn/tos-cn-ve-15c800-ce/oYwgg4L3wt8vsoWCJDGARFwX7OPgoCnBeqItee/?a=0&amp;ch=26&amp;cr=3&amp;dr=0&amp;lr=all&amp;cd=0%7C0%7C0%7C3&amp;cv=1&amp;br=1979&amp;bt=1979&amp;cs=0&amp;ds=3&amp;ft=khyqVumwiiuGN7r.Cd.C~49Zyo3nOz7ld2bXpMyDbwM0T6Q2B2299Im9xr3T_hd.o~&amp;mime_type=video_mp4&amp;qs=0&amp;rc=ZWg2NmUzaDc4NWZoNzxoPEBpM2RndG85cmdveTMzbGkzNEAtMC4zLi5hXjMxYzMtLTFjYSM0ZG9tMmRzLmRgLS1kLWJzcw%3D%3D&amp;btag=c0000e00030000&amp;cquery=100F_100E_103t_100I_100H&amp;dy_q=1789050098&amp;feature_id=dc6e471fd69cf67451806384e04f2b47&amp;l=2026091022213883CF2C159099233BF9D4" length="0" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Video 104</title>
+      <enclosure url="https://v11-default.365yg.com/fe9e0ea7bc7c24d2076f855fa16ae9ad/6aa2cb8f/video/tos/cn/tos-cn-ve-15c800-ce/o05jBIfE783fb2Wqgghv0IqvQAPPHkDbPfNJFC/?a=0&amp;ch=26&amp;cr=3&amp;dr=0&amp;lr=all&amp;cd=0%7C0%7C0%7C3&amp;cv=1&amp;br=2064&amp;bt=2064&amp;cs=0&amp;ds=3&amp;ft=khyqVumwiiuGN7r.Cd.C~49Zyo3nOz7ld2bXpMyDbwM0T6Q2B2299Im9xr3T_hd.o~&amp;mime_type=video_mp4&amp;qs=0&amp;rc=NzY5ZWU5ZmY7Zmc1ZzM0ZUBpamtoeGw5cnFxeTMzbGkzNEAyMzNeYGA0Ni0xYmIzMV42YSNub3AwMmRzcWNgLS1kLWJzcw%3D%3D&amp;btag=c0000e00028000&amp;cquery=100F_100E_103t_100I_100H&amp;dy_q=1789050098&amp;feature_id=dc6e471fd69cf67451806384e04f2b47&amp;l=202609102221383D0DC0249490C23B9C6B" length="0" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Video 105</title>
+      <enclosure url="https://api-play.amemv.com/aweme/v1/play/?video_id=v0d00fg10000covoh63c77ub90eq6ge0&amp;line=0&amp;ratio=540p&amp;watermark=1&amp;media_type=4&amp;vr_type=0&amp;improve_bitrate=0&amp;biz_sign=NRPI1lC4AlkgB1YZ_o3JkfAfESRKvePEcuHMsNE8Ii68HccpC8ABldtB9bGE9VaaOzLa7CA0Ou-V1V2BgVcbfdMT7UbNDGbNHaUZIZuaRMUGyO7s5wbVW7et0I2xs1hA&amp;logo_name=aweme_search_suffix&amp;source=PackSourceEnum_AWEME_DETAIL" length="0" type="video/mp4"/>
+    </item>
+  </channel>
+</rss>
