@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>合集</title>
+    <link>https://tingwu.aliyun.com/</link>
+    <description>合集，共 1 条媒体</description>
+    <item>
+      <title>Video 1</title>
+      <enclosure url="https://media.test/video?a=1&amp;token=a%26b" type="video/mp4" length="12345"/>
+    </item>
+  </channel>
+</rss>
