@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>8cb3b8_info_v2</title>
+    <link>https://tingwu.aliyun.com/</link>
+    <description>8cb3b8_info_v2，共 1 条媒体</description>
+    <item>
+      <title>Video 1</title>
+      <enclosure url="https://v95-aw-default.365yg.com/f95381b8baab3b722dfa04e01f1e2f77/6af49d4f/video/tos/cn/tos-cn-ve-15/f31d11090e6f4c63a7036f310f81a525/?a=0&amp;ch=26&amp;cr=3&amp;dr=0&amp;lr=all&amp;cd=0%7C0%7C0%7C3&amp;cv=1&amp;br=734&amp;bt=734&amp;cs=0&amp;ds=3&amp;ft=4TMyjfZ9ppft2zLd.sd.C_Q8MmgI~nzsxukiABMPeA7o7HV1611xlnHcTGVXPusZ.&amp;mime_type=video_mp4&amp;qs=0&amp;rc=OjZmaWU7OWU1aTQ5Z2k0OkBpM2dsNnI5cnQ4ZDMzNGkzM0BeMzMzYDBeNjYxNTEtYmM1YSNsNDFhMmRrZmthLS1kLS9zcw%3D%3D&amp;btag=c0000e00030000&amp;cquery=103t_100I_101D_101C_100E&amp;dy_q=1794412027&amp;feature_id=93c5283e1794c821af5e0ee1411bec9d&amp;l=20261111234707A0230E6E16D19BCA38B7" type="video/mp4" length="30787799"/>
+    </item>
+  </channel>
+</rss>
